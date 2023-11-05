@@ -1,0 +1,30 @@
+#container {
+    border: 1px solid black;
+    height: 50vh;
+    width: 40%;
+    position: relative;
+}
+.box {
+    border: 1px solid #000;
+ position: absolute;
+    height: 102px;
+    width: 80px;
+}
+.box1{
+    background-color: #ff0000;
+}
+.box2{
+    background-color: #008000;
+    top: 102px;
+    left: 80px;
+}
+.box3{
+    background-color: #0000ff;
+    top: 203px;
+    left: 100px;
+}
+.box4 {
+    background-color: #ee82ee;
+    top: 307px;
+    left: 150px;
+}
